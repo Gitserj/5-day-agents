@@ -1,5 +1,10 @@
 # 5-Day AI Agents Intensive Course with Google!
 
+> [!NOTE]
+> This repository is the result of completing the steps in the course https://www.kaggle.com/learn-guide/5-day-agents. **I highly recommend completing the course yourself.** 
+> 
+> You might find it useful that the model API is accessed through [OpenRouter](https://openrouter.ai/), not the official Google API.
+
 ## Day 1 🚀 Multi-Agent Systems & Workflow Patterns
 
 ### 🚥 Sequential Workflows - The Assembly Line
